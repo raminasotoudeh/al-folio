@@ -2,10 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+I have served as a teaching assistant for courses on Introduction to Sociology and Social Networks at the undergraduate level. In 2019, I co-taught a course on Sociogenomics with Dalton Conley at New York University. Code and other materials for the course can be found here. 
